@@ -12,7 +12,7 @@ Je kunt de **Somtoday Pack Opener Extension** direct downloaden via de onderstaa
 
 1. Download de ZIP via de link hierboven.
 2. Pak het ZIP-bestand uit.
-3. Open je browser en ga naar de pagina voor extensies.
+3. Open je browser en ga naar de pagina voor extensies, tiep in je zoekbalk: chrome://extensions/.
 4. Zet **Developer Mode / Ontwikkelaarsmodus** aan.
 5. Kies **Load unpacked / Uitgepakte extensie laden**.
 6. Selecteer de uitgepakte map van de Somtoday Pack Opener.
